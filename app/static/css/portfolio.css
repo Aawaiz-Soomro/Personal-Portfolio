@@ -413,7 +413,7 @@ footer {
     grid-template-columns: 1fr;
   }
 }
-/*
+
 
 @media (min-width: 900px) {
   .hero {
@@ -421,4 +421,3 @@ footer {
     align-items: stretch;
   }
 }
-*/
